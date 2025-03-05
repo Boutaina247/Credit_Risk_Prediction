@@ -49,7 +49,7 @@ st.title("Prédiction du Risque de Crédit")
 st.markdown("<h3 style='text-align: center;'>by Boutaina BELGHITI</h3>", unsafe_allow_html=True)
 # Ajouter une image de couverture
 image = Image.open('images/risk.jpeg')
-st.image(image, caption='Bienvenue dans l\'analyse du risque de crédit', use_column_width=True)
+st.image(image, caption='Bienvenue dans l\'analyse du risque de crédit', use_container_width=True)
 
 st.write("Veuillez entrer les informations ci-dessous pour prédire le risque d'un prêt.")
 
