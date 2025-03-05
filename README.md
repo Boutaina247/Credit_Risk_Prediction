@@ -1,4 +1,5 @@
 # Credit_Risk_Prediction
+Streamlit App Link : https://creditriskprediction-boutaina.streamlit.app/
 # Prédiction du Risque de Crédit
 
 Cette application permet de prédire le risque de crédit d'un client en fonction de diverses informations financières. L'objectif est d'aider les institutions financières à évaluer le profil de risque des clients pour déterminer si un prêt peut être accordé.
